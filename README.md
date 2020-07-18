@@ -1,4 +1,4 @@
-# convertidor-mayusculas-minusculas-js
+# FormatoTexto.js
 Convertir texto a mayúsculas, minúsculas u otros estilos
 Autor: YordanRD
 Correo: banatube@gmail.com
