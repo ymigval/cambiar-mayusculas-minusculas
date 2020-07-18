@@ -1,7 +1,5 @@
 class FormatoTexto
 {
-	valor;
-
 	constructor(valor)
 	{
 		this.setTexto(valor);
