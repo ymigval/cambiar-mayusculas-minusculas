@@ -1,7 +1,6 @@
 # FormatoTexto.js
 Convertir texto a mayúsculas, minúsculas u otros estilos
-Autor: YordanRD
-Correo: banatube@gmail.com
+Autor: YMiGVal
 
 Entrada y salida
 Como entra se debe pasar el texto al constructor de la clase. Si no se pasa un valor
